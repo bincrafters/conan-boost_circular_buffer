@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Circular_Buffer](https://github.com/Boostorg/Circular_Buffer) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Circular_Buffer%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Circular_Buffer%3Abincrafters).
 
 ## For Users: Use this package
 

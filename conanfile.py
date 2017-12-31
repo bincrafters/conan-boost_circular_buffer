@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostCircular_BufferConan(ConanFile):
     name = "boost_circular_buffer"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-circular_buffer"
+    url = "https://github.com/bincrafters/conan-boost_circular_buffer"
     
     lib_short_names = ["circular_buffer"]
     is_header_only = True

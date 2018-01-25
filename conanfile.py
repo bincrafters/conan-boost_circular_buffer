@@ -8,7 +8,8 @@ class BoostCircular_BufferConan(ConanFile):
     name = "boost_circular_buffer"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_circular_buffer"
-    
+    author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["circular_buffer"]
     is_header_only = True
 

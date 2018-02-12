@@ -1,8 +1,8 @@
 ## Package Status
 
-| Bintray | Windows | Linux | OSX |
-|---------|------------|--------|------|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_circular_buffer%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_circular_buffer%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_circular_buffer?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-circular_buffer)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_circular_buffer.svg)](https://travis-ci.org/bincrafters/conan-boost_circular_buffer)|N/A|
+| Bintray | Windows | Linux & macOS | 
+|:--------:|:---------:|:-----------------:|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_circular_buffer%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_circular_buffer%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_circular_buffer?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-circular-buffer)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_circular_buffer.svg)](https://travis-ci.org/bincrafters/conan-boost_circular_buffer)|
 
 ## Conan.io Information
 

@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.67.0@bincrafters/testing")
 
 class BoostCircular_BufferConan(base.BoostBaseConan):
     name = "boost_circular_buffer"
+    version = "1.67.0"
     url = "https://github.com/bincrafters/conan-boost_circular_buffer"
     lib_short_names = ["circular_buffer"]
     header_only_libs = ["circular_buffer"]
